@@ -8,27 +8,27 @@ let person = document.querySelector('.person');
 const quotes = [{
 
     quote: "Never gonna give you up, never gonna let you down, Never gonna run around and desert you.",
-    person: "Rick Astley"},
+    person: "- Rick Astley -"},
 
     {
         quote: "Life is like a d*ck, its hard.",
-        person: "Someone who is probably hard"},
+        person: "- Someone who is probably hard -"},
 
     {
         quote: "Why you no doctor yet?",
-        person: "Dad"},
+        person: "- Dad -"},
 
     {
         quote: "Kung kaya gawin ng iba, pagawa mo sa iba.",
-        person: "Daniel Padilla"},
+        person: "- Daniel Padilla -"},
 
     {
         quote: "Don't stop when you're tired, stop when you're done.",
-        person: "Me"},
+        person: "- Me -"},
 
     {
         quote: "Why pass the quiz when you can pass away.",
-        person: "pogi123"},
+        person: "- pogi123 -"},
 
 
 ];
